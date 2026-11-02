@@ -22,7 +22,7 @@ setuptools.setup(
     install_requires=[
         # 3rd party dependencies
         'darksky_weather==1.3.1',
-        'pylint==2.4.4',
+        'pylint==4.0.9',
         'mypy==0.750',
     ],
 )
